@@ -12,3 +12,6 @@ Aquest repositori conté informació sobre els diferents programes per poder reb
 
 - [Manual d'usuari del programa Gqrx](https://github.com/Noitty/experiment-noaa/wiki/Manual-d'usuari-del-programa-Gqrx)
 - [Manual d'usuari del programa noaa-apt](https://github.com/Noitty/experiment-noaa/wiki/Manual-d'usuari-del-programa-noaa-apt)
+
+# Manteniment del repositori
+Aquest repositori està mantingut per [Zosoworld](https://github.com/Zosoworld) i [Noitty](https://github.com/Noitty).

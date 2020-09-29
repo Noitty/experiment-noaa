@@ -1,4 +1,4 @@
-# experiment-noaa
+# Projecte per recuperar dades de satèl·lits NOAA
 
 Aquest repositori conté informació sobre els diferents programes per poder rebre imatges dels satèl·lits NOAA. Forma part de la 3a jornada STEM de l'espai. El repositori s'organitza dos grans apartats: un apartat on es pot trobar tots els manuals d'instal·lació i un altre amb manuals d'usuari.
 

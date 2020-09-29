@@ -13,5 +13,8 @@ Aquest repositori conté informació sobre els diferents programes per poder reb
 - [Manual d'usuari del programa Gqrx](https://github.com/Noitty/experiment-noaa/wiki/Manual-d'usuari-del-programa-Gqrx)
 - [Manual d'usuari del programa noaa-apt](https://github.com/Noitty/experiment-noaa/wiki/Manual-d'usuari-del-programa-noaa-apt)
 
+## Manuals de construcció
+- [Fabricació d'una antena V-dipol](https://github.com/Noitty/experiment-noaa/wiki/Fabricaci%C3%B3-d'una-antena-V-dipol)
+
 # Manteniment del repositori
 Aquest repositori està mantingut per [@Zosoworld](https://github.com/Zosoworld) i [@Noitty](https://github.com/Noitty).
